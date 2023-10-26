@@ -1,0 +1,25 @@
+{
+  "name": "inthedark",
+  "displayName": "inTheDark",
+  "description": "Dark theme",
+  "version": "0.0.1",
+  "publisher": "Front-EndFun",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "In The Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/In The Dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "In The Dark"
+  ]
+}
