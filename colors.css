@@ -1,0 +1,42 @@
+/* Dark colors */
+:root {
+  --dark1: #0e1117;
+  --dark2: #2e394c;
+  --dark3: #09649b40;
+  --dark4: #141820;
+  --dark5: #1b222f;
+  --dark6: #0f1624;
+  --dark7: #1b222f;
+  --dark8: #181f2c;
+  --dark9: #162036;
+  --dark10: ;
+}
+
+/* Light colors */
+:root {
+  --light1: #a9b9d0;
+  --light2: #fff;
+  --light3: #d1d9e6;
+  --light4: #d1d9e6;
+  --light5: #5a769d;
+  --light6: ;
+  --light7: ;
+  --light8: ;
+  --light9: ;
+  --light10: ;
+}
+
+/* COLORS  */
+
+:root {
+  --color1: #09649b;
+  --color2: #29be4760;
+  --color3: #29be4740;
+  --color4: #0c5680;
+  --color5: #40b6f0;
+  --color6: #0c5680;
+  --color7: #0b2d46;
+  --color8: #10476a;
+  --color9: #46a40c;
+  --color10: ;
+}

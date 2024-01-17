@@ -33,6 +33,7 @@
 		"editorWarning.foreground":"#d16e21",
 		"editorInfo.foreground":"#f7e920",
 		"editorHint.foreground":"#0dab2f",
+		"editorHoverWidget.background": "#0e121a",
 
 		//suggestion menu when you type code
 		"editorSuggestWidget.background":"#0e121a",
@@ -387,7 +388,6 @@
 			}
 		},
 		//in HTML fil
-		
 		{
 			"name": "HTML Attributes",
 			"scope": [
@@ -484,6 +484,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+		
 		{
 			"name": "ES7 Bind Operator",
 			"scope": [
@@ -494,6 +495,7 @@
 				"foreground": "#FF5370"
 			}
 		},
+		//JSON  KEYS 
 		{
 			"name": "JSON Key - Level 0",
 			"scope": [
@@ -575,6 +577,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
+		// MARKUP AND MARKDOWN
 		{
 			"name": "Markdown - Plain",
 			"scope": [
